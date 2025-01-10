@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @c4rutsin
-- 👀 I’m interested in creating a website that looks cool.
-- 🌱 I’m currently learning java, mysql, html, css, visual basic, & php.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me with my email account; redondojesus076@gmail.com
+Hello! I'm c4rutsin. I am an aspiring developer who'd like to create cool websites in the future.
 
 <!---
 c4rutsin/c4rutsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
